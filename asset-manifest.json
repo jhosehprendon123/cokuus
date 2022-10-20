@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cokuus.github.io/static/css/main.b34f5e40.css",
-    "main.js": "/cokuus.github.io/static/js/main.1c98c927.js",
+    "main.js": "/cokuus.github.io/static/js/main.14a3eb8a.js",
     "static/media/cokuus-comida.png": "/cokuus.github.io/static/media/cokuus-comida.9333114ced59e767c299.png",
     "static/media/cokuus-familia.png": "/cokuus.github.io/static/media/cokuus-familia.c50afbfff0fa264aa6ec.png",
     "static/media/hero_emma_cokuus_circle2.png": "/cokuus.github.io/static/media/hero_emma_cokuus_circle2.cf45dde518a7d332afb3.png",
     "index.html": "/cokuus.github.io/index.html",
     "main.b34f5e40.css.map": "/cokuus.github.io/static/css/main.b34f5e40.css.map",
-    "main.1c98c927.js.map": "/cokuus.github.io/static/js/main.1c98c927.js.map"
+    "main.14a3eb8a.js.map": "/cokuus.github.io/static/js/main.14a3eb8a.js.map"
   },
   "entrypoints": [
     "static/css/main.b34f5e40.css",
-    "static/js/main.1c98c927.js"
+    "static/js/main.14a3eb8a.js"
   ]
 }
