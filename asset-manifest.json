@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cokuus/static/css/main.b34f5e40.css",
-    "main.js": "/cokuus/static/js/main.fb80cce9.js",
+    "main.js": "/cokuus/static/js/main.3ebf0392.js",
     "static/media/cokuus-comida.png": "/cokuus/static/media/cokuus-comida.9333114ced59e767c299.png",
     "static/media/cokuus-familia.png": "/cokuus/static/media/cokuus-familia.c50afbfff0fa264aa6ec.png",
     "static/media/hero_emma_cokuus_circle2.png": "/cokuus/static/media/hero_emma_cokuus_circle2.cf45dde518a7d332afb3.png",
     "index.html": "/cokuus/index.html",
     "main.b34f5e40.css.map": "/cokuus/static/css/main.b34f5e40.css.map",
-    "main.fb80cce9.js.map": "/cokuus/static/js/main.fb80cce9.js.map"
+    "main.3ebf0392.js.map": "/cokuus/static/js/main.3ebf0392.js.map"
   },
   "entrypoints": [
     "static/css/main.b34f5e40.css",
-    "static/js/main.fb80cce9.js"
+    "static/js/main.3ebf0392.js"
   ]
 }
