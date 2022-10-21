@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.b34f5e40.css",
-    "main.js": "/static/js/main.c6c8ba3c.js",
-    "static/media/cokuus-comida.webp": "/static/media/cokuus-comida.045764b7ec5f162061f9.webp",
-    "static/media/hero_emma_cokuus_circle3.webp": "/static/media/hero_emma_cokuus_circle3.9507941d30ee1b1a7173.webp",
-    "static/media/cokuus-familia.webp": "/static/media/cokuus-familia.6ec3160e2821bfe955f8.webp",
+    "main.js": "/static/js/main.2d9b9775.js",
+    "static/media/cokuus-comida.webp": "/static/media/cokuus-comida.97d6f6b1c344c4e47b21.webp",
+    "static/media/hero_emma_cokuus_circle3.webp": "/static/media/hero_emma_cokuus_circle3.bd7512d89e12d944c0a2.webp",
+    "static/media/cokuus-familia.webp": "/static/media/cokuus-familia.e810dfe8130a7cf57679.webp",
     "index.html": "/index.html",
     "main.b34f5e40.css.map": "/static/css/main.b34f5e40.css.map",
-    "main.c6c8ba3c.js.map": "/static/js/main.c6c8ba3c.js.map"
+    "main.2d9b9775.js.map": "/static/js/main.2d9b9775.js.map"
   },
   "entrypoints": [
     "static/css/main.b34f5e40.css",
-    "static/js/main.c6c8ba3c.js"
+    "static/js/main.2d9b9775.js"
   ]
 }
